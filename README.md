@@ -1,6 +1,6 @@
 # FUZZY
 
- ## Kotlin Android Application with awesome libraries
+ ## Kotlin Android Application with awesome libraries with [JSON PLACEHOLDER](https://jsonplaceholder.typicode.com/) 
     
      • MVVM
      • Retrofit
