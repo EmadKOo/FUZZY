@@ -5,7 +5,6 @@
      • MVVM
      • Retrofit
      • DAGGER-HILT
-     • MVVM
      • Room Database
      • Navigation Component
      • RXJava3
